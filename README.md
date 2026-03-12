@@ -125,19 +125,6 @@ Le score bonus est ajouté au score total afin d’obtenir le **score final boos
 
 Cette étape montre comment combiner plusieurs variables et calculs pour produire un **résultat final dans un programme**.
 
----
-
-# ✅ Résultats d’apprentissage
-
-À la fin de ce TP, les étudiants seront capables de :
-
-- Utiliser correctement les **opérateurs arithmétiques en Kotlin**
-- Comprendre l’impact de la **priorité des opérations**
-- Utiliser des **parenthèses pour contrôler les calculs**
-- Faire la différence entre **Int et Double**
-- Effectuer des calculs à partir de **variables**
-- Afficher des résultats numériques correctement formatés
-- Construire une **logique de calcul simple dans un programme**
 
 ---
 
